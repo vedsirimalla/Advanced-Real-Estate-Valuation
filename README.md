@@ -78,9 +78,3 @@ This project tackles that with machine learning — using **Stacked Regression m
 - Integrating time-series trends (year of sale, month effects)
 - Augmenting with external data like economic indices or property tax records
 - Deployment with Flask/Streamlit for real-time user interaction
-
----
-
-## 👋 Let's Connect
-
-If you're interested in real estate analytics, ML in finance, or just curious about the stack — feel free to connect on [LinkedIn](#) or explore more on [GitHub](#)!
