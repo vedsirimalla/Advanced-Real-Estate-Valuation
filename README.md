@@ -72,23 +72,6 @@ This project tackles that with machine learning — using **Stacked Regression m
 
 ---
 
-## 📂 Repository Structure
-
-```
-├── data/
-│   ├── train.csv
-│   └── test.csv
-├── notebooks/
-│   └── house_price_prediction.ipynb
-├── models/
-│   └── best_model_Lasso.pkl (and others)
-├── outputs/
-│   └── test_with_predictions.csv
-└── README.md
-```
-
----
-
 ## 🔮 Future Work
 
 - Addressing multicollinearity with advanced feature selection (e.g., VIF)
