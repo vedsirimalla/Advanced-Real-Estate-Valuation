@@ -2,8 +2,6 @@
 
 **Predicting home prices smarter — with a blend of EDA, feature engineering, and a custom stacked regressor to outperform standard models by 6.5%.**  
 
-![real-estate](https://img.icons8.com/emoji/48/house-emoji.png)  
-
 ## 📌 Project Summary
 
 Buying or selling a home involves one big question: *What’s it really worth?*
